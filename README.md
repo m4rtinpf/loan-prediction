@@ -28,7 +28,6 @@ Installation
 
 ### Install the requirements
 * Install the requirements: `pip install -r requirements.txt`.
-* **perhaps change to `venv`?**
 
 Usage
 -
