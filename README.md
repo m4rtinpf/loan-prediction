@@ -40,7 +40,4 @@ Usage
 	* It will create a file `train.csv` with this data.
 * Run cross-validation on the training set, and print the associated error metrics: `python predict.py`.
 
-Extending this
--
-
 
