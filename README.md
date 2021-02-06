@@ -10,6 +10,8 @@ This project was done following a [tutorial](https://www.dataquest.io/blog/data-
 
 In 2020, Fannie Mae modified the way they publish their data. To avoid having to make too many modifications to the tutorial project, the [old dataset](https://rapidsai.github.io/demos/datasets/mortgage-data) was used.
 
+An article on this project is available [here](https://m4rtinpf.github.io/loan_prediction.html).
+
 Installation
 -
 ### Download the data
